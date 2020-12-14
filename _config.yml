@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Light & Dark Mode
     description                           : Automatical setting of light or dark mode based on the system configuration on your iPhone.
-    fontawesome_icon_name                 : star-half-o
+    fontawesome_icon_name                 : adjust
   
   - title                                 : Save Photos 
     description                           : Easy access to all your previously taken meshed photos by saving to the app.

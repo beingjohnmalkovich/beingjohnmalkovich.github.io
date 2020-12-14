@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : HTW iOS Projekt                                
 your_link                                 : #https://emilbaehr.com                     
 your_city                                 : Berlin                                
-email_address                             : beingjmalkovich@outlook.com
+email_address                             : "beingjmalkovich@outlook.com"
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 

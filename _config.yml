@@ -52,23 +52,23 @@ features                                  :
 
   - title                                 : Light & Dark Mode
     description                           : Automatical setting of light or dark mode based on the system configuration on your iPhone.
-    fontawesome_icon_name                 : fa-star-half-o
+    fontawesome_icon_name                 : star-half-o
   
   - title                                 : Save Photos 
     description                           : Easy access to all your previously taken meshed photos by saving to the app.
-    fontawesome_icon_name                 : fa-folder
+    fontawesome_icon_name                 : folder
 
   - title                                 : Accessibility
     description                           : Adjust the font size to your liking.
-    fontawesome_icon_name                 : fa-low-vision
+    fontawesome_icon_name                 : low-vision
 
   - title                                 : Share With Friends
     description                           : Share your meshed photo through all your social media accounts.
-    fontawesome_icon_name                 : fa-share-alt
+    fontawesome_icon_name                 : share-alt
 
   - title                                 : Local Storage
     description                           : Save your meshed photos locally on your iPhone.
-    fontawesome_icon_name                 : fa-download
+    fontawesome_icon_name                 : download
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
